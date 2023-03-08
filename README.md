@@ -1,1 +1,1 @@
-# Random-color-genrater-wiht-javascript
+# Random-color-genrater-with-javascript
